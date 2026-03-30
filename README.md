@@ -1,5 +1,5 @@
 # MNIST Digit Recognizer — NumPy from Scratch
-A 3-layer neural network built using only NumPy, no TensorFlow or Keras.
+A 3-layer neural network built using only NumPy, without using TensorFlow/PyTorch
 
 ## Architecture
 - Input: 784 neurons (28×28 pixels)
@@ -11,7 +11,7 @@ A 3-layer neural network built using only NumPy, no TensorFlow or Keras.
 ~93% accuracy on MNIST test set after 500 iterations
 
 ## Run it
-Open directly on Kaggle: [add your Kaggle notebook link here]
+Open directly on Kaggle: https://www.kaggle.com/code/rishabhmall/nnscratch
 
 ## What I learned
-Built forward propagation, backpropagation, and gradient descent from scratch.
+Learn essential math topics of a Neural network like Backpropagation, Gradient Descent and learnt practical use of Linear Algebra and Calculus in the field of Machine Learning.
