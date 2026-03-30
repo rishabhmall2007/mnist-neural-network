@@ -1,4 +1,4 @@
-# MNIST Digit Recognizer — NumPy from Scratch
+# End-to-End Neural Network Implementation from Scratch (MNIST Classification)
 A 3-layer neural network built using only NumPy, without using TensorFlow/PyTorch
 
 ## Architecture
